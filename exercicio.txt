@@ -1,0 +1,6 @@
+nota1, nota2, media: real;
+inicio
+ler nota1, nota2;
+media = (nota1 + nota2) / 2;
+exiba media;
+fim
